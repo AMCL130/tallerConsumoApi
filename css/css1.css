@@ -1,0 +1,36 @@
+body{
+    background-color: #e8deeb;
+}
+.container2 {
+
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  
+  .card {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: #cc9ed9;
+    border: 2px solid #161819;
+    border-radius: 5px;
+  }
+  
+  .form-label {
+    font-weight: bold;
+  }
+  
+  .btnEditar {
+    color: white;
+    border-color: #dfe1e4;
+  }
+  
+  .btn-outline-primary:hover {
+    background-color: #a2abb5;
+    color: #fff;
+  }
+  
+  
