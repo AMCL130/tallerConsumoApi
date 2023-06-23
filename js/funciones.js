@@ -1,6 +1,6 @@
 
 
-const url = 'http://localhost:8087/api/cliente'
+const url = 'https://apiconluis2.onrender.com/api/cliente'
 
 
 const listarCliente = async () => {
